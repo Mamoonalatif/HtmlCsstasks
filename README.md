@@ -8,3 +8,5 @@
 <img width="1910" height="916" alt="image" src="https://github.com/user-attachments/assets/9d7c0d06-029b-43a4-a6a7-2aee5429cff8" />
 
 ## Timetable
+<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/5f999328-cf22-4b61-b4ef-739c7f02482d" />
+
